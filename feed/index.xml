@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://civona55.github.io/civona55/feed/?simply_static_page=2295" rel="self" type="application/rss+xml" />
+	<link>http://civona55.github.io/civona55</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Jan 2023 00:40:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>http://civona55.github.io/civona55/wp-content/uploads/2023/01/GREENLand_logomark_color_small-150x150.png</url>
+	<title></title>
+	<link>http://civona55.github.io/civona55</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lorem ipsum</title>
+		<link>http://civona55.github.io/civona55/2023/01/08/lorem-ipsum/</link>
+					<comments>http://civona55.github.io/civona55/2023/01/08/lorem-ipsum/#respond</comments>
+		
+		<dc:creator><![CDATA[greenland_admin]]></dc:creator>
+		<pubDate>Sun, 08 Jan 2023 13:02:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://civona55.github.io/civona55/?p=95</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></description>
+										<content:encoded><![CDATA[
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<figure class="wp-block-post-featured-image"><img loading="lazy" width="1920" height="1081" src="http://civona55.github.io/civona55/wp-content/uploads/2023/01/Banner.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="http://civona55.github.io/civona55/wp-content/uploads/2023/01/Banner.jpg 1920w, http://civona55.github.io/civona55/wp-content/uploads/2023/01/Banner-300x169.jpg 300w, http://civona55.github.io/civona55/wp-content/uploads/2023/01/Banner-1024x577.jpg 1024w, http://civona55.github.io/civona55/wp-content/uploads/2023/01/Banner-768x432.jpg 768w, http://civona55.github.io/civona55/wp-content/uploads/2023/01/Banner-1536x865.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://civona55.github.io/civona55/2023/01/08/lorem-ipsum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
