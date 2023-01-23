@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Comments on: Lorem ipsum	</title>
-	<atom:link href="http://civona55.github.io/civona55/2023/01/08/lorem-ipsum/feed/?simply_static_page=2335" rel="self" type="application/rss+xml" />
-	<link>http://civona55.github.io/civona55/2023/01/08/lorem-ipsum/</link>
-	<description></description>
+	<atom:link href="https://localhost/wordpress/2023/01/08/lorem-ipsum/feed/" rel="self" type="application/rss+xml" />
+	<link>https://localhost/wordpress/2023/01/08/lorem-ipsum/</link>
+	<description>Microplastic free environment</description>
 	<lastBuildDate>Tue, 10 Jan 2023 00:40:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

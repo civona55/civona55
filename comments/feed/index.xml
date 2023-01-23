@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for 	</title>
-	<atom:link href="http://civona55.github.io/civona55/comments/feed/?simply_static_page=2296" rel="self" type="application/rss+xml" />
-	<link>http://civona55.github.io/civona55</link>
-	<description></description>
-	<lastBuildDate>Tue, 10 Jan 2023 00:41:54 +0000</lastBuildDate>
+	Comments for GREENLand	</title>
+	<atom:link href="https://localhost/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://localhost/wordpress</link>
+	<description>Microplastic free environment</description>
+	<lastBuildDate>Mon, 23 Jan 2023 12:47:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
